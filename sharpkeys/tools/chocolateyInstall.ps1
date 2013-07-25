@@ -1,1 +1,0 @@
-Install-ChocolateyPackage 'sharpkeys' 'msi' '/S' 'http://www.randyrants.com/sharpkeys3.msi'

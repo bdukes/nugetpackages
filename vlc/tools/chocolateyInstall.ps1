@@ -1,1 +1,0 @@
-﻿Install-ChocolateyPackage 'vlc' 'exe' '/S' 'http://downloads.sourceforge.net/project/vlc/1.1.10/win32/vlc-1.1.10-win32.exe'

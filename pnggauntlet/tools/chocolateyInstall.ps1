@@ -1,1 +1,0 @@
-﻿  Install-ChocolateyPackage 'pnggauntlet' 'exe' '/???????' 'http://pnggauntlet.com/PNGGauntlet-3.1.1.exe'

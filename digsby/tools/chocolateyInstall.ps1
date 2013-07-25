@@ -1,1 +1,0 @@
-Install-ChocolateyPackage 'digsby' 'exe' '/S' 'http://update.digsby.com/install/digsby_setup.exe'

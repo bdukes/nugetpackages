@@ -1,1 +1,0 @@
-﻿Install-ChocolateyPackage '7Zip' 'msi' '/quiet' 'http://downloads.sourceforge.net/project/sevenzip/7-Zip/9.20/7z920.msi'

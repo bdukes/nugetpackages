@@ -1,1 +1,0 @@
-Install-ChocolateyPackage 'msbuild.communitytasks' 'msi' '/quiet' 'http://www.tigris.org/files/documents/3383/28296/MSBuild.Community.Tasks.msi'
